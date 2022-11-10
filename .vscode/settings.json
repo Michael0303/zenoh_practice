@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./pycdr-0.1.5"
+    ]
+}
